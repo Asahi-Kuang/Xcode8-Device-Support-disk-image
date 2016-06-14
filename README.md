@@ -2,4 +2,4 @@
 
 ###the path:
 
-`Xcode8 -> Contents -> Developer -> Platforms -> iPhoneOS.platform -> DeviceSupport`
+`Xcode -> Contents -> Developer -> Platforms -> iPhoneOS.platform -> DeviceSupport`
